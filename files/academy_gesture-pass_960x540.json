@@ -1,0 +1,22 @@
+[
+  {"targets":[
+    {"delayUnit":1,"delayValue":3,"duration":0,"type":0,"xPos":384,"xPos1":-1,"yPos":472,"yPos1":-1},
+    {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":406,"xPos1":-1,"yPos":148,"yPos1":-1},
+    {"delayUnit":1,"delayValue":3,"duration":0,"type":0,"xPos":434,"xPos1":-1,"yPos":469,"yPos1":-1},
+    {"delayUnit":1,"delayValue":6,"duration":0,"type":0,"xPos":747,"xPos1":-1,"yPos":241,"yPos1":-1},
+    {"delayUnit":1,"delayValue":3,"duration":0,"type":0,"xPos":484,"xPos1":-1,"yPos":470,"yPos1":-1},
+    {"delayUnit":0,"delayValue":50,"duration":0,"type":0,"xPos":610,"xPos1":-1,"yPos":376,"yPos1":-1},
+    {"delayUnit":1,"delayValue":7,"duration":0,"type":0,"xPos":650,"xPos1":-1,"yPos":377,"yPos1":-1},
+    {"delayUnit":1,"delayValue":3,"duration":0,"type":0,"xPos":538,"xPos1":-1,"yPos":465,"yPos1":-1},
+    {"delayUnit":0,"delayValue":50,"duration":0,"type":0,"xPos":738,"xPos1":-1,"yPos":269,"yPos1":-1},
+    {"delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":749,"xPos1":-1,"yPos":268,"yPos1":-1},
+    {"delayUnit":1,"delayValue":6,"duration":0,"type":0,"xPos":181,"xPos1":-1,"yPos":435,"yPos1":-1}
+  ],"antiDetection":false,"id":15,"name":"아카데미 제스처 패스","numberOfCycles":200,"stopConditionChecked":2,"timeValue":300},
+
+  {"targets":[
+    {"delayUnit":0,"delayValue":1,"duration":0,"type":0,"xPos":475,"xPos1":-1,"yPos":442,"yPos1":-1},
+    {"delayUnit":0,"delayValue":1,"duration":0,"type":0,"xPos":692,"xPos1":-1,"yPos":442,"yPos1":-1},
+    {"delayUnit":1,"delayValue":1,"duration":0,"type":0,"xPos":767,"xPos1":-1,"yPos":510,"yPos1":-1},
+    {"delayUnit":0,"delayValue":1000,"duration":0,"type":0,"xPos":825,"xPos1":-1,"yPos":508,"yPos1":-1}
+  ],"antiDetection":false,"id":16,"name":"아카데미 제스처 보상","numberOfCycles":100,"stopConditionChecked":2,"timeValue":300}
+]
